@@ -1,0 +1,6 @@
+{
+  "name": "Waitberry Messenger",
+  "description": "Aplikasi Waitberry Messenger tanpa toolbar link web, cepat dan responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

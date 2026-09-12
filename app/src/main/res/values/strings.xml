@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Waitberry</string>
+    <string name="connection_error_title">Gagal Memuat Halaman</string>
+    <string name="connection_error_desc">Periksa koneksi internet Anda dan coba lagi.</string>
+    <string name="btn_retry">Coba Lagi</string>
+    <string name="loading_text">Memuat Waitberry Messenger…</string>
+</resources>
